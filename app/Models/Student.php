@@ -12,5 +12,6 @@ class Student extends Model
         'studentId',
         'lastName',
         'firstName',
-        'dob'    ];
+        'dob' 
+    ];
 }
